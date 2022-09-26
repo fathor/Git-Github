@@ -1,3 +1,3 @@
 1. Belajar Github
-2. Belajar GIT
+2. Belajar GIT & Git Hub
 3. Belajar GIT Remote
