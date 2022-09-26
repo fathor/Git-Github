@@ -1,5 +1,7 @@
 1. install git
 2. Implementasi Git
-    - Commit
-    - Branch
+  - Fork
+  - Marge
+  - Commit
+  - Branch
 3. Implementasi Git Remote
