@@ -1,2 +1,2 @@
 # training
-hanya test percobaab
+Belajar Tentang Git & Github
