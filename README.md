@@ -1,0 +1,2 @@
+# training
+hanya test percobaab
