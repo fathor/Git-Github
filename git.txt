@@ -1,1 +1,2 @@
 1. install git
+2. Implementasi Git
