@@ -1,3 +1,5 @@
 1. install git
 2. Implementasi Git
+  - Fork
+  - Marge
 3. Implementasi Git Remote
