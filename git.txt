@@ -2,4 +2,6 @@
 2. Implementasi Git
   - Fork
   - Marge
+  - Commit
+  - Branch
 3. Implementasi Git Remote
