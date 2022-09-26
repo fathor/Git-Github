@@ -1,3 +1,5 @@
 1. install git
 2. Implementasi Git
+    - Commit
+    - Branch
 3. Implementasi Git Remote
